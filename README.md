@@ -3,8 +3,6 @@
 ![Byanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByancaMCES&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMCES&layout=demo)](https://github.com/ByancaMCES/github-readme-stats) 
-    
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" align="right" alt="Computador iuriCode">
   
   <p align="left">
   💌 Para entrar em contato: ⤵️
@@ -27,3 +25,5 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/byanca_ennes/"/></a>
 </p>  
 
+    
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" align="right" alt="Computador iuriCode">
