@@ -1,9 +1,10 @@
 # Olá, eu sou a Byanca Martiniano Cardoso Ennes da Silva! 🙋🏼‍♀️
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" align="left" alt="Computador iuriCode">
 
 ![Byanca's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByancaMCES&show_icons=true&theme=synthwave)
 <BR>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMCES&layout=demo)](https://github.com/ByancaMCES/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByancaMCES&layout=demo)](https://github.com/ByancaMCES/github-readme-stats) 
   
   <p align="left">
   💌 Para entrar em contato: ⤵️
